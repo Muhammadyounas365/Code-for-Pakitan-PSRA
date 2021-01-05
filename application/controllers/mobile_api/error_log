@@ -1,0 +1,80 @@
+[06-Jan-2018 05:59:02 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rayeorah_user'@'localhost' (using password: YES) in /home/rayeorah/public_html/mobile_api/db_connect.php on line 7
+[06-Jan-2018 05:59:02 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rayeorah/public_html/mobile_api/get_rating.php on line 7
+[06-Jan-2018 05:59:02 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rayeorah/public_html/mobile_api/get_rating.php on line 9
+[06-Jan-2018 05:59:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rayeorah/public_html/mobile_api/get_rating.php on line 11
+[06-Jan-2018 06:04:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_stats.php on line 11
+[06-Jan-2018 06:04:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_stats.php on line 11
+[06-Jan-2018 06:06:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_stats.php on line 11
+[06-Jan-2018 06:07:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_stats.php on line 11
+[06-Jan-2018 06:07:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_stats.php on line 11
+[08-Jan-2018 06:54:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 19
+[11-Jan-2018 01:09:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 19
+[11-Jan-2018 01:10:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 19
+[11-Jan-2018 01:11:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 19
+[11-Jan-2018 01:12:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 19
+[17-Jan-2018 12:46:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_stats.php on line 25
+[18-Jan-2018 02:09:39 America/Chicago] PHP Parse error:  syntax error, unexpected '`' in /home/rayeorah/public_html/mobile_api/registration.php on line 29
+[18-Jan-2018 02:13:48 America/Chicago] PHP Parse error:  syntax error, unexpected '`' in /home/rayeorah/public_html/mobile_api/registration.php on line 29
+[18-Jan-2018 02:14:01 America/Chicago] PHP Parse error:  syntax error, unexpected '`' in /home/rayeorah/public_html/mobile_api/registration.php on line 29
+[18-Jan-2018 02:14:07 America/Chicago] PHP Parse error:  syntax error, unexpected '`' in /home/rayeorah/public_html/mobile_api/registration.php on line 29
+[18-Jan-2018 02:14:15 America/Chicago] PHP Parse error:  syntax error, unexpected '`' in /home/rayeorah/public_html/mobile_api/registration.php on line 29
+[18-Jan-2018 02:14:19 America/Chicago] PHP Parse error:  syntax error, unexpected '`' in /home/rayeorah/public_html/mobile_api/registration.php on line 29
+[18-Jan-2018 02:37:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rayeorah/public_html/mobile_api/token_update.php on line 32
+[18-Jan-2018 02:37:55 America/Chicago] PHP Fatal error:  Call to undefined function vardump() in /home/rayeorah/public_html/mobile_api/token_update.php on line 13
+[18-Jan-2018 05:29:05 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/rayeorah/public_html/mobile_api/get_history.php on line 13
+[19-Jan-2018 01:18:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/cm_approve_notification.php on line 10
+[19-Jan-2018 01:51:22 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/rayeorah/public_html/mobile_api/cm_approve_notification.php on line 23
+[19-Jan-2018 01:51:45 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/rayeorah/public_html/mobile_api/cm_approve_notification.php on line 23
+[19-Jan-2018 07:00:52 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rayeorah/public_html/mobile_api/change_username.php on line 7
+[19-Jan-2018 10:26:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:26:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:26:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:26:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:26:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:26:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 111
+[19-Jan-2018 10:28:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:28:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:28:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:28:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:28:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:28:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 111
+[19-Jan-2018 10:28:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:28:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:28:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:28:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:28:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 93
+[19-Jan-2018 10:28:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 111
+[19-Jan-2018 10:31:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 111
+[19-Jan-2018 10:31:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 111
+[19-Jan-2018 10:31:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 111
+[19-Jan-2018 10:32:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 115
+[19-Jan-2018 10:32:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 115
+[19-Jan-2018 10:32:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 115
+[19-Jan-2018 10:32:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 115
+[19-Jan-2018 10:32:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 115
+[19-Jan-2018 10:32:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 115
+[19-Jan-2018 10:32:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 115
+[19-Jan-2018 10:32:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 115
+[19-Jan-2018 10:32:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 115
+[19-Jan-2018 10:32:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_all_stats.php on line 115
+[19-Jan-2018 12:51:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/cm_approve_notification.php on line 10
+[19-Jan-2018 12:51:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/cm_question_notification.php on line 10
+[20-Jan-2018 03:00:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_question.php on line 64
+[20-Jan-2018 03:01:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_question.php on line 64
+[20-Jan-2018 03:01:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayeorah/public_html/mobile_api/get_question.php on line 64
+[01-Feb-2018 08:00:21 UTC] PHP Warning:  file_put_contents(/images/.icon01022018080021.png): failed to open stream: No such file or directory in /home/rayeorah/public_html/mobile_api/upload.php on line 17
+[01-Feb-2018 08:00:33 UTC] PHP Warning:  file_put_contents(/images/.icon01022018080033.png): failed to open stream: No such file or directory in /home/rayeorah/public_html/mobile_api/upload.php on line 17
+[01-Feb-2018 08:00:38 UTC] PHP Warning:  file_put_contents(/images/.icon01022018080038.png): failed to open stream: No such file or directory in /home/rayeorah/public_html/mobile_api/upload.php on line 17
+[01-Feb-2018 08:00:59 UTC] PHP Warning:  file_put_contents(/images/.icon01022018080059.png): failed to open stream: No such file or directory in /home/rayeorah/public_html/mobile_api/upload.php on line 17
+[01-Feb-2018 08:01:49 UTC] PHP Warning:  file_put_contents(/images/.icon01022018080149.png): failed to open stream: No such file or directory in /home/rayeorah/public_html/mobile_api/upload.php on line 16
+[01-Feb-2018 08:02:26 UTC] PHP Warning:  file_put_contents(/images/.icon01022018080226.png): failed to open stream: No such file or directory in /home/rayeorah/public_html/mobile_api/upload.php on line 16
+[01-Feb-2018 08:02:46 UTC] PHP Warning:  file_put_contents(/images/.icon01022018080246.png): failed to open stream: No such file or directory in /home/rayeorah/public_html/mobile_api/upload.php on line 16
+[01-Feb-2018 08:03:28 UTC] PHP Parse error:  syntax error, unexpected '".png"' (T_CONSTANT_ENCAPSED_STRING) in /home/rayeorah/public_html/mobile_api/upload.php on line 12
+[01-Feb-2018 08:04:55 UTC] PHP Parse error:  syntax error, unexpected '".png"' (T_CONSTANT_ENCAPSED_STRING) in /home/rayeorah/public_html/mobile_api/upload.php on line 12
+[01-Feb-2018 08:06:13 UTC] PHP Parse error:  syntax error, unexpected '".png"' (T_CONSTANT_ENCAPSED_STRING) in /home/rayeorah/public_html/mobile_api/upload.php on line 12
+[01-Feb-2018 08:06:31 UTC] PHP Parse error:  syntax error, unexpected '".png"' (T_CONSTANT_ENCAPSED_STRING) in /home/rayeorah/public_html/mobile_api/upload.php on line 12
+[01-Feb-2018 08:08:34 UTC] PHP Parse error:  syntax error, unexpected '".png"' (T_CONSTANT_ENCAPSED_STRING) in /home/rayeorah/public_html/mobile_api/upload.php on line 12
+[01-Feb-2018 08:10:12 UTC] PHP Parse error:  syntax error, unexpected '".png"' (T_CONSTANT_ENCAPSED_STRING) in /home/rayeorah/public_html/mobile_api/upload.php on line 12
+[01-Feb-2018 08:13:31 UTC] PHP Parse error:  syntax error, unexpected '".png"' (T_CONSTANT_ENCAPSED_STRING) in /home/rayeorah/public_html/mobile_api/upload.php on line 12
+[01-Feb-2018 08:15:23 UTC] PHP Parse error:  syntax error, unexpected '".png"' (T_CONSTANT_ENCAPSED_STRING) in /home/rayeorah/public_html/mobile_api/upload.php on line 12
+[01-Feb-2018 08:23:13 UTC] PHP Warning:  file_put_contents(./assets/images/icon01022018082313.png): failed to open stream: No such file or directory in /home/rayeorah/public_html/mobile_api/upload.php on line 17

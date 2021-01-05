@@ -1,0 +1,23 @@
+/* hello */
+
+/*
+#flashMessage.message {
+  padding-top:100px;
+    color: blue;
+}
+
+#errorMessage.message {
+  padding-top:100px;
+  color: red;
+}
+*/
+
+ pre.cake-error{
+
+    margin-top:100px;
+    margin-left:300px;
+} 
+  pre.cake-debug{
+    margin-top:100px;
+    margin-left:300px;
+} 
